@@ -1,9 +1,9 @@
 Tipus de paradigmes:
 
-• Paradigma imperatiu/estructurat.
-• Paradigma d’objectes.
-• Paradigma funcional.
-• Paradigma lògic.
+• Paradigma imperatiu/estructurat.  
+• Paradigma d’objectes.  
+• Paradigma funcional.  
+• Paradigma lògic.  
 
 El paradigma imperatiu/estructurat deu el seu nom al paper dominant
 que exerceixen les sentències imperatives, és a dir aquelles que indiquen
