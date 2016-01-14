@@ -4,12 +4,12 @@ identificarà el codi font, que el programador desenvoluparà per indicar a la
 màquina, una vegada aquest codi s’hagi convertit en codi executable, quins
 passos ha de donar.
 
-Els diferents tipus de llenguatges són:
-• Llenguatge de primera generació o llenguatge màquina.
-• Llenguatges de segona generació o llenguatges d’assemblador.
-• Llenguatges de tercera generació o llenguatges d’alt nivell.
-• Llenguatges de quarta generació o llenguatges de propòsit específic.
-• Llenguatges de cinquena generació.
+Els diferents tipus de llenguatges són:  
+• Llenguatge de primera generació o llenguatge màquina.  
+• Llenguatges de segona generació o llenguatges d’assemblador.  
+• Llenguatges de tercera generació o llenguatges d’alt nivell.  
+• Llenguatges de quarta generació o llenguatges de propòsit específic.  
+• Llenguatges de cinquena generació.  
 
 El primer tipus de llenguatge que es va desenvolupar és l’anomenat
 **llenguatge de primera generació o llenguatge màquina**. És l’únic
