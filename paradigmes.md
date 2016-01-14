@@ -1,4 +1,4 @@
-Tipus de paradigmes:
+Tipus de paradigmes:  
 **• Paradigma imperatiu/estructurat.**  
 **• Paradigma d’objectes.**  
 **• Paradigma funcional.**  
