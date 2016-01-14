@@ -1,4 +1,4 @@
-__Característiques dels llenguatges més difosos__
+#Característiques dels llenguatges més difosos
 
 Cada un d’aquests llenguatges té un
 seguit de particularitats que el fan diferent de la resta.
@@ -16,7 +16,7 @@ característiques en comú que són les que marquen les similituds entre tots el
 **L’orientació a objectes** (en endavant, OO) és un paradigma de construcció
 de programes basat en una abstracció del món real.
 
-**Un objecte** és una combinació de dades (anomenades atributs) i mètodes
+Un **objecte** és una combinació de dades (anomenades atributs) i mètodes
 (funcions i procediments) que ens permeten interactuar amb ell. En OO,
 doncs, els programes són conjunts d’objectes que interactuen entre ells a
 través de missatges (crides a mètodes).
