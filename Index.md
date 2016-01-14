@@ -16,5 +16,5 @@
 [2]: https://github.com/Ezero04/M05UF1/blob/master/codi_font.md
 [3]: https://github.com/Ezero04/M05UF1/blob/master/tipus.md
 [4]: https://github.com/Ezero04/M05UF1/blob/master/paradigmes.md
-[5]: 
+[5]: https://github.com/Ezero04/M05UF1/edit/master/difosos.md
 [6]: 
