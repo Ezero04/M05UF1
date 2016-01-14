@@ -1,3 +1,5 @@
+#Paradigmes de programació.  
+
 Tipus de paradigmes:  
 
 **• Paradigma imperatiu/estructurat.**  
