@@ -12,4 +12,4 @@
 
 1.6. Procés d'obtenció de codi executable a partir del codi font; eines implicades.
 
-[1] :https://github.com/Ezero04/M05UF1/blob/master/programa_informatic.md
+[1]: https://github.com/Ezero04/M05UF1/blob/master/programa_informatic.md
