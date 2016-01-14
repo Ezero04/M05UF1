@@ -12,5 +12,5 @@ lligats al maquinari on s’executaran i no es poden traslladar fàcilment a alt
 sistemes amb un maquinari diferent.  
 • Cal conèixer a fons l’arquitectura del sistema i del processador per escriure
 bons programes.  
-• No permeten expressar de forma directa conceptes habituals a nivell d’algorisme.
+• No permeten expressar de forma directa conceptes habituals a nivell d’algorisme.  
 • Son difícils de codificar, documentar i mantenir.  
