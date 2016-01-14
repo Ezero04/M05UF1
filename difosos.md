@@ -12,3 +12,11 @@ la programació.
 Els llenguatges de programació més difosos corresponents a diferents àmbits,
 a diferents tecnologies o a diferents tipus de programació tenen una sèrie de
 característiques en comú que són les que marquen les similituds entre tots ells.
+
+**L’orientació a objectes** (en endavant, OO) és un paradigma de construcció
+de programes basat en una abstracció del món real.
+
+**Un objecte** és una combinació de dades (anomenades atributs) i mètodes
+(funcions i procediments) que ens permeten interactuar amb ell. En OO,
+doncs, els programes són conjunts d’objectes que interactuen entre ells a
+través de missatges (crides a mètodes).
