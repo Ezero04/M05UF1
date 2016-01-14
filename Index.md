@@ -4,7 +4,7 @@
 
 1.2. [Codi font, codi objecte i codi executable; màquines virtuals.] [2]
 
-1.3. Tipus de llenguatges de programació.
+1.3. [Tipus de llenguatges de programació.] [3]
 
 1.4. Característiques dels llenguatges més difosos.
 
@@ -14,3 +14,4 @@
 
 [1]: https://github.com/Ezero04/M05UF1/blob/master/programa_informatic.md
 [2]: https://github.com/Ezero04/M05UF1/blob/master/codi_font.md
+[3]: https://github.com/Ezero04/M05UF1/blob/master/tipus.md
